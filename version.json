@@ -1,0 +1,8 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "publishedDate": "2026-10-20",
+  "releaseNotes": "- Cập nhật thanh 5 nút lệnh cố định: Xuất Phát, Tăng Số, Giảm Số, Chuông, Kết Thúc.\n- Chuẩn hóa thời gian 30s xuất phát chỉ tính từ lúc bấm Xuất Phát.\n- Sắp xếp danh mục lỗi trực quan theo từng bài thi.\n- Tích hợp bảo mật chống dịch ngược IL2CPP và mã hóa AES-256.",
+  "apkUrl": "https://drive.google.com/file/d/13FhiXPLfL85zebUpdJz4gC_0Q_S7PcGn/view?usp=drive_link",
+  "forceUpdate": false
+}
