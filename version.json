@@ -1,8 +1,8 @@
 {
   "versionCode": 2,
   "versionName": "1.1.0",
-  "publishedDate": "2026-10-20",
-  "releaseNotes": "- Cập nhật thanh 5 nút lệnh cố định: Xuất Phát, Tăng Số, Giảm Số, Chuông, Kết Thúc.\n- Chuẩn hóa thời gian 30s xuất phát chỉ tính từ lúc bấm Xuất Phát.\n- Sắp xếp danh mục lỗi trực quan theo từng bài thi.\n- Tích hợp bảo mật chống dịch ngược IL2CPP và mã hóa AES-256.",
+  "releaseNotes": "- Tự động điền ngẫu nhiên thông tin học viên\n- Thời gian thi chỉ đếm khi bấm Xuất Phát\n- Tổng quãng đường nằm song song bên trái Thời Gian\n- Tự động cuộn danh sách lỗi khi chọn bài thi\n- Bổ sung quãng đường cạnh Hạng B\n- Bỏ thông báo đỏ hoàn thành bài thi",
   "apkUrl": "https://github.com/pcmetanet/vietmy/releases/download/v1.1.0/vm-1.1.0.apk",
-  "forceUpdate": false
+  "forceUpdate": false,
+  "publishedDate": "2026-10-21"
 }
