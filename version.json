@@ -1,8 +1,8 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1.0",
-  "releaseNotes": "- Tự động điền ngẫu nhiên thông tin học viên\n- Thời gian thi chỉ đếm khi bấm Xuất Phát\n- Tổng quãng đường nằm song song bên trái Thời Gian\n- Tự động cuộn danh sách lỗi khi chọn bài thi\n- Bổ sung quãng đường cạnh Hạng B\n- Bỏ thông báo đỏ hoàn thành bài thi",
+  "versionCode": 3,
+  "versionName": "1.1.1",
+  "releaseNotes": "- Cập nhật tính năng mới\n- Tối ưu hiệu năng và sửa lỗi",
   "apkUrl": "https://github.com/pcmetanet/vietmy/releases/download/v1.1.0/vm-1.1.0.apk",
-  "forceUpdate": false,
-  "publishedDate": "2026-10-21"
+  "forceUpdate": true,
+  "publishedDate": "2026-10-29"
 }
